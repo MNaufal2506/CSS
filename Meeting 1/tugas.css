@@ -1,0 +1,131 @@
+/* tugas 1 start */
+.Roti-Bakar {
+  color: blue;
+  background-color: aquamarine;
+  text-align: center;
+}
+
+.Seblak {
+  color: black;
+  background-color: cyan;
+  text-align: center;
+}
+
+.Martabak-Telur {
+  color: cyan;
+  background-color: cornflowerblue;
+  text-align: center;
+}
+
+header {
+  background-color: chartreuse;
+  text-align: center;
+}
+
+footer {
+  color: aquamarine;
+  background-color: black;
+  text-align: center;
+}
+/* tugas 1 end */
+
+/* tugas 2 start */
+#Box1 {
+  background-color: aqua;
+  color: white;
+  font-size: 20px;
+}
+
+#Box2 {
+  background-color: rgb(255, 0, 0);
+  color: white;
+  font-size: 18px;
+}
+
+#Box3 {
+  background-color: rgba(0, 255, 0, 0.589);
+  color: white;
+  font-size: 16px;
+}
+/* tugas 2 end */
+
+/* tugas 3 start */
+header {
+  background-color: blue;
+  color: white;
+  border-radius: 15px;
+  margin: 3px;
+  padding: px;
+  text-align: center;
+}
+
+.Coffee {
+background-color: #ECB176;
+color: white;
+border: 2px solid brown;
+border-radius: 40px;
+margin: 3px;
+padding: 5px;
+text-align: center;
+}
+
+.Tea {
+background-color: #0dff00;
+color: rgb(0, 0, 0);
+border: 2px solid rgb(0, 90, 8);
+border-radius: 40px;
+margin: 3px;
+padding: 5px;
+text-align: center;
+}
+
+.Juice {
+background-color: orange;
+color: white;
+border: 2px solid rgb(153, 101, 5);
+border-radius: 40px;
+margin: 3px;
+padding: 5px;
+text-align: center;
+}
+
+footer{
+  background-color: rgb(66, 66, 66);
+  color: white;
+  margin: 13px;
+  padding: 15px;
+  border-radius: 30px;
+}
+/* tugas 3 end */
+
+/* tugas 4 start */
+#Milkshake{
+  background-color: rgb(205, 89, 126);
+  color: white;
+  border: 2px solid rgb(153, 101, 5);
+  border-radius: 40px;
+  margin: 3px;
+  padding: 5px;
+  text-align: center;
+}
+
+#Smoothie{
+  background-color: rgb(255, 0, 179);
+  color: rgb(0, 0, 0);
+  border: 2px solid rgb(153, 101, 5);
+  border-radius: 40px;
+  margin: 3px;
+  padding: 5px;
+  text-align: center;
+}
+
+#Soda{
+  background-color: rgb(255, 94, 0);
+  color: white;
+  border: 2px solid rgb(153, 101, 5);
+  border-radius: 40px;
+  margin: 3px;
+  padding: 5px;
+  text-align: center;
+}
+/* tugas 4 end */
