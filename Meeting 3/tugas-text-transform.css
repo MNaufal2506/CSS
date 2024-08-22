@@ -1,0 +1,40 @@
+h1{
+    text-align: center;
+    background-color: #1a8389;
+    color: #f6fff8;
+    padding: 1em;
+    border-radius: 10px;
+    
+}
+
+#pertama {
+    text-align: center;
+    direction: ltr;
+    text-decoration: dashed;
+    text-transform: capitalize;
+    letter-spacing: 0.01em;
+    text-overflow: ellipsis;
+    text-shadow: 0.1px 0.2px #000000;
+    background-color: aqua;
+    color: black;
+    font-size: large;
+    padding: 2em;
+    margin: 1em;
+    border-radius: 8px;
+}
+
+#kedua{
+    text-align: center;
+    direction: ltr;
+    text-decoration: dashed;
+    text-transform: capitalize;
+    letter-spacing: 0.01em;
+    text-overflow: ellipsis;
+    text-shadow: 0.1px 1px #000000;
+    background-color:   rgb(14, 64, 64);
+    color: rgb(255, 255, 255);
+    font-size: large;
+    padding: 2em;
+    margin: 1em;
+    border-radius: 8px;
+}
