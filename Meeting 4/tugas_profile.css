@@ -1,0 +1,29 @@
+header{
+    background-color: black;
+    border: 2px solid   blue;
+    border-radius: 30px;
+    margin: 1em;
+    padding: 3em;
+}
+
+h1{
+    text-align: center;
+    color: blue;
+}
+
+.contact-info{
+    text-align: center;
+    color: aqua;
+}
+
+.Email{
+    text-align: center;
+    color: blueviolet;
+    
+}
+
+a:hover{
+    color: azure;
+}
+
+
