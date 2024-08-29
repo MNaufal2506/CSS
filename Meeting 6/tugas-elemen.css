@@ -1,0 +1,50 @@
+.Px{
+    background-color: rgb(0, 204, 255);
+    margin: 30px;
+    padding: 40px;
+    text-align: center;
+    border-radius: 30px;
+    font-size: 100x;
+
+}
+
+.Persen{
+    background-color: rgb(0, 204, 255);
+    margin: 20%;
+    padding: 20%;
+    text-align: center;
+    border-radius: 30%; 
+    font-size: 100%;
+}
+
+.Em{
+    background-color: rgb(0, 204, 255);
+    margin: 3em;
+    padding: 3em;
+    text-align: center;
+    border-radius: 30em;
+}
+
+.Rem{
+    background-color: rgb(0, 204, 255);
+    margin: 3rem;
+    padding: 3rem;
+    text-align: center;
+    border-radius: 30rem;
+}
+
+.Vw{
+    background-color: rgb(0, 204, 255);
+    margin: 3vw;
+    padding: 4vw;
+    text-align: center;
+    border-radius: 3vw;
+}
+
+.Vh{
+    background-color: rgb(0, 204, 255);
+    margin: 3vh;
+    padding: 4vh;
+    text-align: center;
+    border-radius: 3vh;
+}

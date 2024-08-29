@@ -1,0 +1,33 @@
+.box1{
+    border-bottom: 5px solid aqua;
+    text-align: center;
+}
+
+.box2{
+    border-left: 5px solid blue;
+    border-right: 5px solid blue;
+    text-align: center;
+
+}
+
+.box3{
+    border-bottom: 5px solid red;
+    border-top: 4px dashed rgb(0, 255, 38);
+    border-left: 7px dotted rgb(255, 255, 3);
+    border-right: 6px double rgb(68, 0, 255);
+    text-align: center;
+}
+
+.box4{
+    border: 5px solid rgb(0, 191, 255);
+    border-radius: 20px;
+    text-align: center;
+}
+
+.box5{
+    img{
+        border-left: 5px solid blue;
+        border-right: 5px solid blue;
+    }
+}
+
