@@ -1,0 +1,21 @@
+.banner{
+    background-color: aqua;
+    overflow: auto;
+}
+
+.banner img{
+    float: left;
+}
+
+#meaw{
+    background-color: aqua;
+}
+
+.banner-2{
+    background-color: aqua;
+    overflow: auto;
+}
+
+.banner-2 img{
+    float: right;
+}
