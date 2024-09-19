@@ -1,0 +1,14 @@
+.list-style{
+    list-style-type: none;
+    background-color: rgb(21, 0, 255);
+    overflow: hidden;
+    
+    li a{
+        text-decoration: none;
+    
+    }
+
+    a:hover{
+        background-color: aqua;
+    }
+}
