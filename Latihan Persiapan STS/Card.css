@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+body{
+    display: flex;
+    justify-content: center;
+}
+
+#Card-1{
+    margin-right: 50px;
+    background-color:  white;
+    width: 30%;
+    border-radius: 10px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+
+.au{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    /* background-color: rgb(226, 52, 17); */
+    /* margin-left: -55px; */
+}
+
+.banner{
+    margin-left: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    .Avatar{
+        padding-right: 20px;
+        width: 80px;
+        height: 80px;
+    }
+    .titik{
+        width: 9px;
+        margin-right: 30PX;
+
+        
+    }
+}
+
+.Text-Banner{
+    /* margin-left: -10px; */
+    h1{
+        font-family: 'Roboto';
+        font-size: 35px;
+        /* margin-top: 40px;
+        margin-bottom: -4; */
+    }
+    p{
+        margin-top: -30px;
+        /* margin-bottom: 40px; */ 
+        color: #828282;
+        font-size: 20px;
+        font-family: 'Roboto';
+    }
+}
+
+.image{
+    position: relative;
+    img{
+        width: 100%;
+     
+    } 
+    span{
+        position: absolute;
+        background-color: red;
+        right: 68px; 
+        color: white;
+        padding: 10px;
+        font-size: 20px;
+        top: 30px;
+        border-radius: 10px;
+        font-family: 'Roboto','sans-serif';
+        font-weight: 700;
+    }
+   
+}
+
+.big-text{
+    margin-top: -20px;
+    margin-bottom: 2    0px;
+    margin-left: 40px;
+    margin-right: 40px;
+    h1{
+        font-family: 'Roboto';
+        font-size: 50px;
+    }
+    h3{
+        margin-top: -30px;
+        font-family: 'Roboto', 'Sans serif';
+        font-weight: 400;
+        font-size: 29px;
+        color: #4F4F4F;
+    }
+    p{
+        font-family: 'Roboto';
+        font-size: 23px;
+        margin-top: -23px;
+    }
+}
+
+
+#Card-2{
+    border-radius: 10px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+    box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
+    background-color: white;
+    width: 30%;
+    height: fit-content;
+    padding-bottom: 40px;
+}
+
+
+
+.image-2{
+    margin: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    img{
+        width: 100%;
+    }
+}
+
+.Text{
+    margin-top: 40px;
+    margin-right: 40px;
+    margin-left: 40px;
+    h1{
+        font-family: 'Inter','sans-serif';
+        font-size: 28px;
+    }
+    p{
+        color: #425466;
+        font-family: 'Inter','sans-serif';
+        font-size: 25px;
+    }
+    button{
+        font-family: 'Inter', 'sans-serif';
+        border: none;
+        border-radius: 12px;
+        padding: 18px 30px 18px 30px;
+        font-size: 20px;
+        color: white;
+        background-color: #4C6FFF;
+    }
+}
